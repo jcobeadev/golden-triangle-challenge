@@ -40,4 +40,4 @@ Since there are no values in the array that can create a golden triangle.</p>
 <p class="has-line-data" data-line-start="41" data-line-end="43"><strong>Submission:</strong><br>
 Write a function to find a golden triangle from aray T (return true or false)</p>
 <p class="has-line-data" data-line-start="44" data-line-end="46"><strong>Note:</strong><br>
-The time limit is <strong>1 hour</strong>, and if the candidate uses more than one for loop, the candidate will lose some scores ( <strong>expected program efficiency O(n)</strong> )</p>
+The time limit is <strong>1 hour</strong>, and if the candidate uses more than one for loop, the candidate will lose some scores ( <strong>expected program efficiency O(log n)</strong> )</p>
