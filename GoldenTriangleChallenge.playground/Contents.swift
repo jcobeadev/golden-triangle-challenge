@@ -1,4 +1,6 @@
-import Foundation
+//  GoldenTriangleChallenge.playground
+//
+//  Created by Jayco Bea on 9/07/22.
 
 func goldenTriangle(arr: [Int]) -> Bool {
     // check if we can create a triangle base on
